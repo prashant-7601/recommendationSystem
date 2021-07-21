@@ -1,6 +1,7 @@
+Find the links to datasets in the links.txt file. I coould not upload them here because they were large in size.
+
 This project was made for the Capgemini Tech Challenge 2021 (Data Science round 2).
 We were asked to create a recommendation system using 2 datasets (electronics and modcloth) provided to us.
-
 
 
 How to deploy the project:
